@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2a5f01a2dc19d0f0ac2cdd075685f2237dd06dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ed32ecb050a5037004d8e117402af1dccdd3b3d">
+        <dex dex="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb66c6b5b9a1550ba8fee87107af2d09bbabf5b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/seanr/.android/build-cache/0d7614996fff18ccab097f1e4e96d8c7aa93f584/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7138cb8873f8955672c80fe9a5a83e3e55f0875b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/seanr/.android/build-cache/644e7e4cf637876e932f5e56ebce12dc2fe40e92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ea43abc949fc2a0e5d6627e503cc0a50875a4bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/seanr/.android/build-cache/358a831858b5bd75e53fe114f956f7b3845a9323/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/seanr/AndroidStudioProjects/usPhoto/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97d962add1fa1287ecb4059f91321567a016e04c/classes.dex" />
+    </item>
+
+</items>
